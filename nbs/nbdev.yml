@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "comics"
+  site-url: "https://riversdark.github.io/comics"
+  description: "Collection of OMICS tools"
+  repo-branch: main
+  repo-url: "https://github.com/riversdark/comics"
