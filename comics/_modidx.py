@@ -7,4 +7,5 @@ d = { 'settings': { 'branch': 'master',
                 'lib_path': 'comics'},
   'syms': { 'comics.core': {'comics.core.foo': ('core.html#foo', 'comics/core.py')},
             'comics.iam': {},
-            'comics.ump': {'comics.ump.process_files': ('ump.html#process_files', 'comics/ump.py')}}}
+            'comics.ump': { 'comics.ump.explore_mzml_files': ('ump.html#explore_mzml_files', 'comics/ump.py'),
+                            'comics.ump.process_files': ('ump.html#process_files', 'comics/ump.py')}}}
